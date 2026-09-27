@@ -1,4 +1,4 @@
-## MYVIZHI Y (21224050022)
+## SHASWANTH MATHAV S (21224050046)
 # 1. Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
 ## 🎯 Aim
